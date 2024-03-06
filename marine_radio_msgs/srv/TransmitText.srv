@@ -1,0 +1,7 @@
+
+uint32 channel_id
+string message
+---
+float32 transmit_duration
+bool success
+string error_message

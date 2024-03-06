@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>marine_radio_tools</name>
+  <version>0.1.0</version>
+  <description>Tools to work with marine communication radios</description>
+
+  <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>          flite</depend>
+  <depend>          marine_radio_msgs</depend>
+  <depend>          roscpp</depend>
+
+  <export>
+  </export>
+</package>

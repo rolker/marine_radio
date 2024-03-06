@@ -1,0 +1,4 @@
+marine_radio_msgs/AudioMessage message
+---
+bool success
+string error_message
